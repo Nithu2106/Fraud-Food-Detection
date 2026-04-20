@@ -1,0 +1,501 @@
+product_name,brand,detection_method,severity,adulterant,fraud_food_type,health_risk,adulteration_percentage
+Coffee,BrandH,Chemical Analysis,High,Starch,Adulteration,High,67
+Milk,BrandH,Chemical Analysis,High,Detergent,Contamination,High,46
+Olive Oil,BrandC,Spectroscopy,Low,Palm Oil,Substitution,Low,12
+Apple Juice,BrandH,Lab Test,Low,Sugar Solution,Dilution,Low,14
+Ghee,BrandC,Spectroscopy,Low,Palm Oil,Substitution,Low,7
+Milk,BrandG,Lab Test,Medium,Water,Dilution,Low,34
+Ghee,BrandB,Spectroscopy,High,Palm Oil,Substitution,Medium,46
+Turmeric Powder,BrandA,Lab Test,Medium,Artificial Color,Artificial,High,32
+Milk,BrandH,Lab Test,High,Water,Dilution,Medium,56
+Butter,BrandF,Chemical Analysis,Medium,Salt,Adulteration,Medium,33
+Butter,BrandG,Chemical Analysis,Low,Starch,Adulteration,Low,8
+Coffee,BrandA,Chemical Analysis,Medium,Starch,Adulteration,Medium,30
+Coffee,BrandB,Chemical Analysis,High,Starch,Adulteration,High,59
+Coffee,BrandE,Spectroscopy,Low,Chicory,Substitution,Low,7
+Coffee,BrandC,Spectroscopy,Medium,Chicory,Substitution,Medium,33
+Apple Juice,BrandD,Lab Test,High,Sugar Solution,Dilution,Medium,51
+Ghee,BrandC,Spectroscopy,Medium,Palm Oil,Substitution,Medium,27
+Tea,BrandA,Lab Test,Low,Artificial Color,Artificial,Low,14
+Ghee,BrandD,Spectroscopy,Medium,Palm Oil,Substitution,Low,21
+Milk,BrandE,Chemical Analysis,Low,Detergent,Contamination,High,5
+Coffee,BrandG,Chemical Analysis,Medium,Starch,Adulteration,Medium,32
+Honey,BrandB,Lab Test,Low,Corn Syrup,Substitution,Low,8
+Ghee,BrandD,Spectroscopy,High,Palm Oil,Substitution,High,57
+Honey,BrandE,Lab Test,Low,Corn Syrup,Substitution,Low,11
+Ghee,BrandF,Spectroscopy,Low,Vanaspati,Substitution,Low,9
+Butter,BrandB,Chemical Analysis,Low,Salt,Adulteration,Low,11
+Butter,BrandC,Chemical Analysis,Medium,Salt,Adulteration,Medium,28
+Butter,BrandF,Chemical Analysis,High,Salt,Adulteration,High,67
+Ghee,BrandG,Spectroscopy,Low,Vanaspati,Substitution,Low,9
+Butter,BrandA,Chemical Analysis,High,Salt,Adulteration,Medium,45
+Chili Powder,BrandG,Lab Test,Medium,Artificial Color,Artificial,High,37
+Apple Juice,BrandG,Lab Test,Low,Sugar Solution,Dilution,Low,8
+Coffee,BrandF,Spectroscopy,Low,Chicory,Substitution,Low,9
+Olive Oil,BrandD,Spectroscopy,Low,Soybean Oil,Substitution,Low,8
+Butter,BrandG,Chemical Analysis,High,Salt,Adulteration,High,70
+Honey,BrandG,Lab Test,Low,Corn Syrup,Substitution,Low,14
+Milk,BrandH,Chemical Analysis,Medium,Detergent,Contamination,High,21
+Olive Oil,BrandA,Spectroscopy,Low,Palm Oil,Substitution,Low,15
+Honey,BrandH,Lab Test,High,Sugar Syrup,Substitution,High,51
+Olive Oil,BrandF,Spectroscopy,Low,Palm Oil,Substitution,Low,12
+Tea,BrandC,Visual Inspection,Low,Iron Filings,Contamination,High,6
+Tea,BrandH,Visual Inspection,High,Iron Filings,Contamination,High,66
+Apple Juice,BrandA,Lab Test,Low,Sugar Solution,Dilution,Low,6
+Olive Oil,BrandE,Spectroscopy,Medium,Palm Oil,Substitution,Low,21
+Tea,BrandC,Lab Test,Medium,Artificial Color,Artificial,High,31
+Turmeric Powder,BrandE,Chemical Analysis,High,Lead Chromate,Artificial,High,64
+Turmeric Powder,BrandG,Chemical Analysis,Medium,Lead Chromate,Artificial,High,26
+Apple Juice,BrandE,Lab Test,High,Sugar Solution,Dilution,Medium,45
+Butter,BrandD,Chemical Analysis,Low,Salt,Adulteration,Low,11
+Olive Oil,BrandH,Spectroscopy,High,Soybean Oil,Substitution,Medium,46
+Coffee,BrandE,Chemical Analysis,Medium,Starch,Adulteration,Medium,26
+Honey,BrandF,Lab Test,Medium,Corn Syrup,Substitution,Medium,35
+Ghee,BrandF,Spectroscopy,Low,Vanaspati,Substitution,Low,6
+Honey,BrandD,Lab Test,Medium,Sugar Syrup,Substitution,Low,24
+Chili Powder,BrandG,Lab Test,High,Artificial Color,Artificial,High,64
+Turmeric Powder,BrandF,Chemical Analysis,Low,Lead Chromate,Artificial,High,9
+Tea,BrandD,Visual Inspection,Medium,Iron Filings,Contamination,High,35
+Milk,BrandB,Lab Test,Medium,Water,Dilution,Low,31
+Chili Powder,BrandH,Lab Test,Medium,Artificial Color,Artificial,High,38
+Honey,BrandB,Lab Test,Low,Corn Syrup,Substitution,Low,10
+Apple Juice,BrandG,Chemical Analysis,Low,Artificial Flavor,Synthetic,Low,11
+Honey,BrandB,Lab Test,Low,Sugar Syrup,Substitution,Low,5
+Tea,BrandG,Lab Test,Medium,Artificial Color,Artificial,High,40
+Tea,BrandG,Visual Inspection,Low,Iron Filings,Contamination,High,14
+Honey,BrandF,Lab Test,Low,Sugar Syrup,Substitution,Low,9
+Turmeric Powder,BrandE,Chemical Analysis,Low,Lead Chromate,Artificial,High,5
+Butter,BrandG,Chemical Analysis,Low,Starch,Adulteration,Low,13
+Ghee,BrandH,Spectroscopy,Medium,Palm Oil,Substitution,Low,24
+Olive Oil,BrandD,Spectroscopy,High,Soybean Oil,Substitution,High,66
+Apple Juice,BrandC,Chemical Analysis,Medium,Artificial Flavor,Synthetic,Medium,27
+Ghee,BrandC,Spectroscopy,Low,Vanaspati,Substitution,Low,13
+Butter,BrandG,Chemical Analysis,Low,Salt,Adulteration,Low,12
+Butter,BrandA,Chemical Analysis,High,Starch,Adulteration,High,54
+Milk,BrandG,Chemical Analysis,Low,Detergent,Contamination,High,15
+Tea,BrandB,Visual Inspection,Low,Iron Filings,Contamination,High,11
+Apple Juice,BrandD,Chemical Analysis,High,Artificial Flavor,Synthetic,High,62
+Chili Powder,BrandD,Visual Inspection,Low,Brick Powder,Contamination,High,6
+Apple Juice,BrandA,Chemical Analysis,Low,Artificial Flavor,Synthetic,Low,7
+Butter,BrandF,Chemical Analysis,Low,Starch,Adulteration,Low,11
+Ghee,BrandA,Spectroscopy,Medium,Vanaspati,Substitution,High,32
+Butter,BrandC,Chemical Analysis,Low,Salt,Adulteration,Low,8
+Turmeric Powder,BrandA,Chemical Analysis,Low,Lead Chromate,Artificial,High,12
+Tea,BrandE,Visual Inspection,Low,Iron Filings,Contamination,High,15
+Olive Oil,BrandB,Spectroscopy,High,Palm Oil,Substitution,High,66
+Honey,BrandA,Lab Test,Medium,Sugar Syrup,Substitution,Medium,35
+Ghee,BrandB,Spectroscopy,Medium,Palm Oil,Substitution,Low,21
+Coffee,BrandH,Chemical Analysis,Low,Starch,Adulteration,Low,13
+Chili Powder,BrandA,Visual Inspection,Medium,Brick Powder,Contamination,High,31
+Ghee,BrandH,Spectroscopy,Medium,Vanaspati,Substitution,Medium,25
+Apple Juice,BrandC,Chemical Analysis,Low,Artificial Flavor,Synthetic,Low,13
+Honey,BrandB,Lab Test,Low,Sugar Syrup,Substitution,Low,6
+Chili Powder,BrandF,Lab Test,Low,Artificial Color,Artificial,Low,13
+Coffee,BrandA,Spectroscopy,Low,Chicory,Substitution,Low,14
+Milk,BrandE,Chemical Analysis,Medium,Detergent,Contamination,High,28
+Tea,BrandG,Lab Test,Low,Artificial Color,Artificial,Medium,15
+Coffee,BrandA,Chemical Analysis,Low,Starch,Adulteration,Low,8
+Olive Oil,BrandE,Spectroscopy,Low,Soybean Oil,Substitution,Low,15
+Turmeric Powder,BrandC,Lab Test,Medium,Artificial Color,Artificial,Medium,25
+Tea,BrandD,Visual Inspection,Low,Iron Filings,Contamination,High,8
+Olive Oil,BrandB,Spectroscopy,Medium,Palm Oil,Substitution,Medium,26
+Olive Oil,BrandB,Spectroscopy,High,Soybean Oil,Substitution,Medium,45
+Honey,BrandE,Lab Test,Medium,Sugar Syrup,Substitution,Low,20
+Apple Juice,BrandB,Lab Test,Medium,Sugar Solution,Dilution,Medium,40
+Butter,BrandE,Chemical Analysis,High,Starch,Adulteration,High,68
+Chili Powder,BrandE,Visual Inspection,Low,Brick Powder,Contamination,High,7
+Turmeric Powder,BrandE,Lab Test,High,Artificial Color,Artificial,High,61
+Butter,BrandD,Chemical Analysis,High,Starch,Adulteration,High,54
+Milk,BrandA,Lab Test,Low,Water,Dilution,Low,14
+Coffee,BrandE,Spectroscopy,Medium,Chicory,Substitution,Low,23
+Turmeric Powder,BrandH,Lab Test,Low,Artificial Color,Artificial,Low,12
+Butter,BrandB,Chemical Analysis,Medium,Salt,Adulteration,Medium,28
+Ghee,BrandH,Spectroscopy,High,Palm Oil,Substitution,High,57
+Milk,BrandF,Chemical Analysis,Medium,Detergent,Contamination,High,22
+Ghee,BrandG,Spectroscopy,Medium,Palm Oil,Substitution,Medium,32
+Turmeric Powder,BrandD,Lab Test,Low,Artificial Color,Artificial,Low,13
+Butter,BrandF,Chemical Analysis,Medium,Salt,Adulteration,Medium,39
+Milk,BrandB,Chemical Analysis,Low,Detergent,Contamination,High,9
+Turmeric Powder,BrandG,Chemical Analysis,Low,Lead Chromate,Artificial,High,15
+Tea,BrandA,Visual Inspection,Low,Iron Filings,Contamination,High,7
+Tea,BrandA,Visual Inspection,Medium,Iron Filings,Contamination,High,24
+Honey,BrandH,Lab Test,Low,Corn Syrup,Substitution,Low,7
+Ghee,BrandH,Spectroscopy,Low,Vanaspati,Substitution,Low,5
+Chili Powder,BrandG,Visual Inspection,Medium,Brick Powder,Contamination,High,37
+Chili Powder,BrandE,Visual Inspection,Medium,Brick Powder,Contamination,High,35
+Butter,BrandH,Chemical Analysis,Medium,Salt,Adulteration,Low,24
+Butter,BrandD,Chemical Analysis,Medium,Starch,Adulteration,Low,20
+Milk,BrandD,Lab Test,Low,Water,Dilution,Low,5
+Apple Juice,BrandE,Chemical Analysis,Low,Artificial Flavor,Synthetic,Low,10
+Butter,BrandB,Chemical Analysis,Medium,Starch,Adulteration,Low,21
+Tea,BrandB,Visual Inspection,Medium,Iron Filings,Contamination,High,34
+Turmeric Powder,BrandD,Lab Test,High,Artificial Color,Artificial,High,52
+Chili Powder,BrandC,Visual Inspection,Low,Brick Powder,Contamination,High,11
+Honey,BrandC,Lab Test,Low,Sugar Syrup,Substitution,Low,13
+Honey,BrandD,Lab Test,Low,Sugar Syrup,Substitution,Low,11
+Olive Oil,BrandE,Spectroscopy,Low,Palm Oil,Substitution,Low,9
+Tea,BrandF,Visual Inspection,Medium,Iron Filings,Contamination,High,27
+Apple Juice,BrandG,Lab Test,High,Sugar Solution,Dilution,Medium,45
+Milk,BrandE,Chemical Analysis,Medium,Detergent,Contamination,High,38
+Honey,BrandF,Lab Test,High,Sugar Syrup,Substitution,High,59
+Chili Powder,BrandB,Lab Test,Low,Artificial Color,Artificial,Low,8
+Tea,BrandG,Visual Inspection,Medium,Iron Filings,Contamination,High,25
+Turmeric Powder,BrandE,Chemical Analysis,Medium,Lead Chromate,Artificial,High,31
+Apple Juice,BrandF,Chemical Analysis,High,Artificial Flavor,Synthetic,High,62
+Olive Oil,BrandD,Spectroscopy,Low,Soybean Oil,Substitution,Low,9
+Butter,BrandD,Chemical Analysis,Medium,Salt,Adulteration,Medium,29
+Tea,BrandH,Lab Test,Low,Artificial Color,Artificial,Low,5
+Turmeric Powder,BrandB,Chemical Analysis,Low,Lead Chromate,Artificial,High,13
+Turmeric Powder,BrandB,Lab Test,High,Artificial Color,Artificial,High,45
+Olive Oil,BrandB,Spectroscopy,Medium,Soybean Oil,Substitution,Medium,38
+Olive Oil,BrandE,Spectroscopy,Medium,Soybean Oil,Substitution,Medium,27
+Butter,BrandG,Chemical Analysis,Medium,Starch,Adulteration,Medium,37
+Tea,BrandE,Visual Inspection,Low,Iron Filings,Contamination,High,5
+Apple Juice,BrandF,Lab Test,Medium,Sugar Solution,Dilution,Low,22
+Ghee,BrandH,Spectroscopy,Low,Vanaspati,Substitution,Low,8
+Ghee,BrandE,Spectroscopy,Medium,Palm Oil,Substitution,Medium,40
+Apple Juice,BrandH,Chemical Analysis,High,Artificial Flavor,Synthetic,High,60
+Ghee,BrandB,Spectroscopy,Medium,Palm Oil,Substitution,Medium,31
+Tea,BrandG,Lab Test,Low,Artificial Color,Artificial,Medium,15
+Chili Powder,BrandF,Lab Test,Low,Artificial Color,Artificial,Low,6
+Coffee,BrandA,Spectroscopy,Medium,Chicory,Substitution,Medium,39
+Ghee,BrandG,Spectroscopy,Low,Palm Oil,Substitution,Low,13
+Turmeric Powder,BrandD,Chemical Analysis,High,Lead Chromate,Artificial,High,57
+Turmeric Powder,BrandF,Lab Test,High,Artificial Color,Artificial,High,56
+Butter,BrandB,Chemical Analysis,Medium,Starch,Adulteration,Medium,37
+Apple Juice,BrandH,Chemical Analysis,Low,Artificial Flavor,Synthetic,Low,7
+Apple Juice,BrandG,Chemical Analysis,Medium,Artificial Flavor,Synthetic,Medium,29
+Tea,BrandF,Visual Inspection,Low,Iron Filings,Contamination,High,13
+Butter,BrandE,Chemical Analysis,Low,Starch,Adulteration,Low,5
+Olive Oil,BrandF,Spectroscopy,Medium,Palm Oil,Substitution,Medium,27
+Coffee,BrandF,Chemical Analysis,Low,Starch,Adulteration,Low,6
+Chili Powder,BrandA,Lab Test,Low,Artificial Color,Artificial,Low,14
+Butter,BrandC,Chemical Analysis,Medium,Starch,Adulteration,Medium,35
+Turmeric Powder,BrandF,Chemical Analysis,High,Lead Chromate,Artificial,High,62
+Chili Powder,BrandF,Visual Inspection,Medium,Brick Powder,Contamination,High,27
+Tea,BrandA,Visual Inspection,High,Iron Filings,Contamination,High,66
+Chili Powder,BrandG,Lab Test,Medium,Artificial Color,Artificial,Medium,25
+Honey,BrandC,Lab Test,Low,Corn Syrup,Substitution,Low,9
+Turmeric Powder,BrandA,Lab Test,Low,Artificial Color,Artificial,Medium,15
+Turmeric Powder,BrandE,Lab Test,Medium,Artificial Color,Artificial,High,35
+Honey,BrandG,Lab Test,Medium,Sugar Syrup,Substitution,Medium,33
+Ghee,BrandG,Spectroscopy,High,Vanaspati,Substitution,High,69
+Olive Oil,BrandE,Spectroscopy,High,Soybean Oil,Substitution,Medium,49
+Chili Powder,BrandG,Lab Test,Low,Artificial Color,Artificial,Low,13
+Turmeric Powder,BrandG,Chemical Analysis,High,Lead Chromate,Artificial,High,64
+Turmeric Powder,BrandC,Chemical Analysis,Medium,Lead Chromate,Artificial,High,34
+Honey,BrandA,Lab Test,High,Corn Syrup,Substitution,High,60
+Coffee,BrandC,Chemical Analysis,Low,Starch,Adulteration,Low,13
+Tea,BrandB,Lab Test,Low,Artificial Color,Artificial,Low,8
+Apple Juice,BrandC,Chemical Analysis,Low,Artificial Flavor,Synthetic,Low,13
+Butter,BrandA,Chemical Analysis,Medium,Starch,Adulteration,Medium,27
+Milk,BrandF,Chemical Analysis,Medium,Detergent,Contamination,High,25
+Apple Juice,BrandE,Chemical Analysis,Medium,Artificial Flavor,Synthetic,Medium,27
+Ghee,BrandB,Spectroscopy,Low,Vanaspati,Substitution,Low,6
+Butter,BrandA,Chemical Analysis,Low,Salt,Adulteration,Low,8
+Apple Juice,BrandE,Lab Test,Medium,Sugar Solution,Dilution,Medium,40
+Honey,BrandF,Lab Test,High,Corn Syrup,Substitution,High,69
+Milk,BrandC,Chemical Analysis,High,Detergent,Contamination,High,64
+Coffee,BrandE,Spectroscopy,High,Chicory,Substitution,High,68
+Butter,BrandE,Chemical Analysis,Low,Starch,Adulteration,Low,6
+Chili Powder,BrandA,Lab Test,High,Artificial Color,Artificial,High,50
+Tea,BrandD,Lab Test,High,Artificial Color,Artificial,High,46
+Coffee,BrandE,Spectroscopy,Low,Chicory,Substitution,Low,6
+Apple Juice,BrandC,Lab Test,Medium,Sugar Solution,Dilution,Medium,36
+Apple Juice,BrandH,Lab Test,Medium,Sugar Solution,Dilution,Low,24
+Ghee,BrandH,Spectroscopy,High,Vanaspati,Substitution,High,47
+Ghee,BrandB,Spectroscopy,Low,Vanaspati,Substitution,Low,11
+Olive Oil,BrandE,Spectroscopy,Low,Soybean Oil,Substitution,Low,8
+Chili Powder,BrandF,Visual Inspection,Low,Brick Powder,Contamination,High,5
+Coffee,BrandF,Spectroscopy,Medium,Chicory,Substitution,Medium,39
+Olive Oil,BrandD,Spectroscopy,Low,Palm Oil,Substitution,Low,9
+Tea,BrandC,Lab Test,Low,Artificial Color,Artificial,Low,7
+Chili Powder,BrandA,Visual Inspection,Low,Brick Powder,Contamination,High,15
+Milk,BrandH,Lab Test,Low,Water,Dilution,Low,10
+Chili Powder,BrandG,Visual Inspection,Low,Brick Powder,Contamination,High,15
+Apple Juice,BrandE,Chemical Analysis,Medium,Artificial Flavor,Synthetic,Medium,26
+Turmeric Powder,BrandB,Chemical Analysis,High,Lead Chromate,Artificial,High,56
+Coffee,BrandF,Chemical Analysis,Low,Starch,Adulteration,Low,9
+Tea,BrandD,Visual Inspection,High,Iron Filings,Contamination,High,52
+Milk,BrandB,Lab Test,Medium,Water,Dilution,Medium,35
+Milk,BrandH,Chemical Analysis,Medium,Detergent,Contamination,High,22
+Butter,BrandB,Chemical Analysis,Low,Starch,Adulteration,Low,11
+Chili Powder,BrandD,Visual Inspection,High,Brick Powder,Contamination,High,58
+Ghee,BrandG,Spectroscopy,High,Palm Oil,Substitution,Medium,45
+Apple Juice,BrandD,Lab Test,Low,Sugar Solution,Dilution,Low,9
+Coffee,BrandB,Spectroscopy,Low,Chicory,Substitution,Low,14
+Chili Powder,BrandF,Lab Test,Medium,Artificial Color,Artificial,High,32
+Ghee,BrandB,Spectroscopy,High,Vanaspati,Substitution,High,68
+Turmeric Powder,BrandG,Chemical Analysis,Low,Lead Chromate,Artificial,High,14
+Tea,BrandF,Visual Inspection,High,Iron Filings,Contamination,High,60
+Butter,BrandH,Chemical Analysis,Low,Starch,Adulteration,Low,8
+Butter,BrandA,Chemical Analysis,Low,Starch,Adulteration,Low,11
+Coffee,BrandE,Chemical Analysis,Medium,Starch,Adulteration,Medium,31
+Butter,BrandE,Chemical Analysis,Medium,Starch,Adulteration,Medium,36
+Milk,BrandH,Lab Test,Medium,Water,Dilution,Medium,35
+Tea,BrandC,Visual Inspection,High,Iron Filings,Contamination,High,55
+Olive Oil,BrandD,Spectroscopy,Medium,Palm Oil,Substitution,Medium,25
+Apple Juice,BrandD,Chemical Analysis,Medium,Artificial Flavor,Synthetic,Medium,29
+Ghee,BrandE,Spectroscopy,Low,Vanaspati,Substitution,Low,10
+Turmeric Powder,BrandH,Lab Test,Medium,Artificial Color,Artificial,Medium,25
+Apple Juice,BrandD,Chemical Analysis,Low,Artificial Flavor,Synthetic,Low,11
+Milk,BrandC,Lab Test,High,Water,Dilution,High,64
+Butter,BrandC,Chemical Analysis,High,Starch,Adulteration,High,62
+Tea,BrandF,Lab Test,Low,Artificial Color,Artificial,Low,9
+Ghee,BrandE,Spectroscopy,High,Vanaspati,Substitution,High,46
+Milk,BrandB,Chemical Analysis,Low,Detergent,Contamination,High,13
+Milk,BrandA,Chemical Analysis,Medium,Detergent,Contamination,High,36
+Ghee,BrandH,Spectroscopy,Medium,Palm Oil,Substitution,Low,20
+Butter,BrandH,Chemical Analysis,Low,Salt,Adulteration,Low,13
+Apple Juice,BrandC,Lab Test,Medium,Sugar Solution,Dilution,Low,32
+Tea,BrandG,Visual Inspection,High,Iron Filings,Contamination,High,63
+Tea,BrandB,Visual Inspection,Medium,Iron Filings,Contamination,High,28
+Ghee,BrandB,Spectroscopy,Low,Palm Oil,Substitution,Low,13
+Olive Oil,BrandH,Spectroscopy,Medium,Palm Oil,Substitution,Low,24
+Apple Juice,BrandE,Lab Test,Low,Sugar Solution,Dilution,Low,6
+Olive Oil,BrandC,Spectroscopy,Low,Soybean Oil,Substitution,Low,13
+Turmeric Powder,BrandG,Lab Test,Medium,Artificial Color,Artificial,Medium,28
+Olive Oil,BrandC,Spectroscopy,Low,Palm Oil,Substitution,Low,14
+Honey,BrandE,Lab Test,Low,Sugar Syrup,Substitution,Low,8
+Butter,BrandA,Chemical Analysis,Medium,Starch,Adulteration,Medium,33
+Milk,BrandA,Lab Test,High,Water,Dilution,Medium,52
+Olive Oil,BrandB,Spectroscopy,Low,Palm Oil,Substitution,Low,11
+Honey,BrandF,Lab Test,Medium,Sugar Syrup,Substitution,Medium,40
+Coffee,BrandB,Spectroscopy,Medium,Chicory,Substitution,Medium,32
+Chili Powder,BrandH,Lab Test,Medium,Artificial Color,Artificial,High,38
+Turmeric Powder,BrandF,Chemical Analysis,Medium,Lead Chromate,Artificial,High,33
+Milk,BrandB,Chemical Analysis,High,Detergent,Contamination,High,69
+Ghee,BrandC,Spectroscopy,Low,Vanaspati,Substitution,Low,9
+Honey,BrandE,Lab Test,High,Sugar Syrup,Substitution,Medium,49
+Tea,BrandH,Lab Test,High,Artificial Color,Artificial,High,46
+Apple Juice,BrandF,Chemical Analysis,Medium,Artificial Flavor,Synthetic,High,35
+Olive Oil,BrandF,Spectroscopy,Low,Soybean Oil,Substitution,Low,13
+Ghee,BrandD,Spectroscopy,Medium,Vanaspati,Substitution,Medium,29
+Coffee,BrandC,Chemical Analysis,High,Starch,Adulteration,High,55
+Tea,BrandH,Visual Inspection,Medium,Iron Filings,Contamination,High,30
+Chili Powder,BrandG,Visual Inspection,High,Brick Powder,Contamination,High,47
+Coffee,BrandD,Chemical Analysis,High,Starch,Adulteration,High,61
+Olive Oil,BrandF,Spectroscopy,Low,Palm Oil,Substitution,Low,13
+Turmeric Powder,BrandD,Chemical Analysis,Medium,Lead Chromate,Artificial,High,38
+Milk,BrandH,Lab Test,Low,Water,Dilution,Low,9
+Tea,BrandE,Lab Test,Low,Artificial Color,Artificial,Low,5
+Coffee,BrandF,Spectroscopy,High,Chicory,Substitution,High,55
+Coffee,BrandF,Chemical Analysis,Medium,Starch,Adulteration,Low,20
+Apple Juice,BrandC,Chemical Analysis,High,Artificial Flavor,Synthetic,High,56
+Ghee,BrandH,Spectroscopy,Low,Palm Oil,Substitution,Low,8
+Tea,BrandD,Lab Test,Low,Artificial Color,Artificial,Low,13
+Coffee,BrandA,Spectroscopy,High,Chicory,Substitution,High,59
+Ghee,BrandA,Spectroscopy,Medium,Vanaspati,Substitution,Medium,26
+Apple Juice,BrandH,Lab Test,High,Sugar Solution,Dilution,High,66
+Turmeric Powder,BrandH,Lab Test,Medium,Artificial Color,Artificial,High,37
+Turmeric Powder,BrandD,Chemical Analysis,Low,Lead Chromate,Artificial,High,11
+Ghee,BrandE,Spectroscopy,Low,Palm Oil,Substitution,Low,5
+Milk,BrandH,Lab Test,Medium,Water,Dilution,Medium,37
+Honey,BrandH,Lab Test,Low,Corn Syrup,Substitution,Low,12
+Coffee,BrandB,Chemical Analysis,Low,Starch,Adulteration,Low,12
+Butter,BrandG,Chemical Analysis,Medium,Starch,Adulteration,Medium,34
+Milk,BrandG,Chemical Analysis,High,Detergent,Contamination,High,60
+Apple Juice,BrandF,Lab Test,Low,Sugar Solution,Dilution,Low,13
+Milk,BrandA,Lab Test,Medium,Water,Dilution,Medium,36
+Chili Powder,BrandE,Visual Inspection,Low,Brick Powder,Contamination,High,9
+Ghee,BrandB,Spectroscopy,Medium,Vanaspati,Substitution,Medium,22
+Coffee,BrandB,Chemical Analysis,Medium,Starch,Adulteration,Medium,33
+Apple Juice,BrandH,Lab Test,Medium,Sugar Solution,Dilution,Low,23
+Chili Powder,BrandH,Visual Inspection,Medium,Brick Powder,Contamination,High,36
+Honey,BrandC,Lab Test,Medium,Corn Syrup,Substitution,Medium,31
+Turmeric Powder,BrandE,Lab Test,Low,Artificial Color,Artificial,Low,10
+Turmeric Powder,BrandE,Chemical Analysis,Low,Lead Chromate,Artificial,High,11
+Olive Oil,BrandG,Spectroscopy,High,Soybean Oil,Substitution,High,53
+Olive Oil,BrandH,Spectroscopy,Low,Soybean Oil,Substitution,Low,5
+Olive Oil,BrandG,Spectroscopy,High,Palm Oil,Substitution,High,63
+Milk,BrandD,Lab Test,Medium,Water,Dilution,Medium,35
+Milk,BrandA,Chemical Analysis,Medium,Detergent,Contamination,High,30
+Ghee,BrandF,Spectroscopy,Medium,Vanaspati,Substitution,Medium,20
+Ghee,BrandA,Spectroscopy,Low,Vanaspati,Substitution,Low,13
+Milk,BrandD,Chemical Analysis,Medium,Detergent,Contamination,High,20
+Coffee,BrandH,Spectroscopy,Medium,Chicory,Substitution,Low,23
+Tea,BrandE,Lab Test,Low,Artificial Color,Artificial,Low,10
+Tea,BrandE,Lab Test,High,Artificial Color,Artificial,High,59
+Olive Oil,BrandB,Spectroscopy,Low,Soybean Oil,Substitution,Low,9
+Apple Juice,BrandF,Chemical Analysis,Low,Artificial Flavor,Synthetic,Low,5
+Coffee,BrandB,Chemical Analysis,Low,Starch,Adulteration,Low,8
+Coffee,BrandF,Chemical Analysis,Medium,Starch,Adulteration,Low,22
+Chili Powder,BrandD,Visual Inspection,Medium,Brick Powder,Contamination,High,30
+Turmeric Powder,BrandH,Chemical Analysis,Medium,Lead Chromate,Artificial,High,38
+Coffee,BrandH,Spectroscopy,High,Chicory,Substitution,High,65
+Chili Powder,BrandB,Visual Inspection,High,Brick Powder,Contamination,High,50
+Honey,BrandG,Lab Test,Low,Corn Syrup,Substitution,Low,14
+Olive Oil,BrandH,Spectroscopy,Medium,Palm Oil,Substitution,Medium,39
+Apple Juice,BrandA,Chemical Analysis,High,Artificial Flavor,Synthetic,High,61
+Olive Oil,BrandC,Spectroscopy,Medium,Soybean Oil,Substitution,Medium,29
+Honey,BrandB,Lab Test,Medium,Corn Syrup,Substitution,Medium,39
+Turmeric Powder,BrandF,Chemical Analysis,Medium,Lead Chromate,Artificial,High,31
+Honey,BrandA,Lab Test,High,Sugar Syrup,Substitution,High,67
+Apple Juice,BrandA,Chemical Analysis,Medium,Artificial Flavor,Synthetic,High,37
+Ghee,BrandG,Spectroscopy,Low,Vanaspati,Substitution,Low,6
+Olive Oil,BrandB,Spectroscopy,Medium,Palm Oil,Substitution,Medium,28
+Chili Powder,BrandG,Visual Inspection,Low,Brick Powder,Contamination,High,9
+Turmeric Powder,BrandC,Lab Test,Low,Artificial Color,Artificial,Low,14
+Olive Oil,BrandG,Spectroscopy,Low,Palm Oil,Substitution,Low,5
+Olive Oil,BrandC,Spectroscopy,High,Palm Oil,Substitution,High,60
+Tea,BrandB,Visual Inspection,High,Iron Filings,Contamination,High,69
+Butter,BrandB,Chemical Analysis,Low,Starch,Adulteration,Low,7
+Butter,BrandG,Chemical Analysis,Medium,Salt,Adulteration,Medium,29
+Apple Juice,BrandG,Lab Test,Low,Sugar Solution,Dilution,Low,11
+Ghee,BrandA,Spectroscopy,High,Palm Oil,Substitution,High,58
+Butter,BrandH,Chemical Analysis,Medium,Starch,Adulteration,Low,20
+Honey,BrandG,Lab Test,High,Corn Syrup,Substitution,High,54
+Turmeric Powder,BrandA,Chemical Analysis,Medium,Lead Chromate,Artificial,High,39
+Tea,BrandG,Visual Inspection,Low,Iron Filings,Contamination,High,6
+Ghee,BrandG,Spectroscopy,Medium,Vanaspati,Substitution,High,36
+Coffee,BrandF,Spectroscopy,Low,Chicory,Substitution,Low,8
+Ghee,BrandB,Spectroscopy,Low,Palm Oil,Substitution,Low,11
+Apple Juice,BrandC,Chemical Analysis,Medium,Artificial Flavor,Synthetic,High,40
+Tea,BrandF,Visual Inspection,Low,Iron Filings,Contamination,High,13
+Honey,BrandH,Lab Test,Low,Sugar Syrup,Substitution,Low,9
+Ghee,BrandE,Spectroscopy,Medium,Vanaspati,Substitution,High,36
+Olive Oil,BrandF,Spectroscopy,Low,Soybean Oil,Substitution,Low,6
+Milk,BrandG,Chemical Analysis,Low,Detergent,Contamination,High,8
+Milk,BrandG,Lab Test,High,Water,Dilution,Medium,58
+Apple Juice,BrandA,Chemical Analysis,Low,Artificial Flavor,Synthetic,Low,12
+Tea,BrandA,Lab Test,Low,Artificial Color,Artificial,Low,6
+Butter,BrandG,Chemical Analysis,Medium,Salt,Adulteration,Low,22
+Olive Oil,BrandF,Spectroscopy,Medium,Soybean Oil,Substitution,Medium,37
+Milk,BrandG,Lab Test,Medium,Water,Dilution,Low,22
+Butter,BrandC,Chemical Analysis,Low,Starch,Adulteration,Low,9
+Coffee,BrandD,Chemical Analysis,Low,Starch,Adulteration,Low,14
+Milk,BrandE,Lab Test,High,Water,Dilution,Medium,47
+Ghee,BrandF,Spectroscopy,High,Vanaspati,Substitution,High,65
+Tea,BrandB,Visual Inspection,Low,Iron Filings,Contamination,High,11
+Milk,BrandE,Chemical Analysis,Low,Detergent,Contamination,High,9
+Turmeric Powder,BrandE,Lab Test,Low,Artificial Color,Artificial,Low,11
+Apple Juice,BrandE,Lab Test,Low,Sugar Solution,Dilution,Low,7
+Olive Oil,BrandF,Spectroscopy,High,Palm Oil,Substitution,High,62
+Butter,BrandB,Chemical Analysis,High,Starch,Adulteration,High,60
+Coffee,BrandH,Chemical Analysis,Medium,Starch,Adulteration,Low,21
+Chili Powder,BrandB,Lab Test,High,Artificial Color,Artificial,High,46
+Turmeric Powder,BrandG,Lab Test,Low,Artificial Color,Artificial,Medium,15
+Turmeric Powder,BrandC,Lab Test,High,Artificial Color,Artificial,High,68
+Apple Juice,BrandB,Chemical Analysis,Low,Artificial Flavor,Synthetic,Low,8
+Honey,BrandH,Lab Test,Medium,Corn Syrup,Substitution,Low,21
+Chili Powder,BrandD,Lab Test,High,Artificial Color,Artificial,High,58
+Ghee,BrandC,Spectroscopy,Low,Palm Oil,Substitution,Low,8
+Milk,BrandE,Lab Test,Low,Water,Dilution,Low,15
+Ghee,BrandA,Spectroscopy,High,Vanaspati,Substitution,High,60
+Apple Juice,BrandB,Lab Test,Low,Sugar Solution,Dilution,Low,11
+Butter,BrandD,Chemical Analysis,Medium,Starch,Adulteration,Medium,35
+Turmeric Powder,BrandA,Chemical Analysis,High,Lead Chromate,Artificial,High,60
+Honey,BrandH,Lab Test,High,Corn Syrup,Substitution,High,62
+Apple Juice,BrandG,Chemical Analysis,Low,Artificial Flavor,Synthetic,Low,14
+Coffee,BrandG,Chemical Analysis,Low,Starch,Adulteration,Low,7
+Chili Powder,BrandA,Lab Test,Medium,Artificial Color,Artificial,Medium,21
+Honey,BrandG,Lab Test,Medium,Sugar Syrup,Substitution,Medium,26
+Tea,BrandE,Visual Inspection,Medium,Iron Filings,Contamination,High,35
+Turmeric Powder,BrandC,Lab Test,Medium,Artificial Color,Artificial,Medium,26
+Tea,BrandE,Lab Test,Medium,Artificial Color,Artificial,Medium,20
+Chili Powder,BrandE,Visual Inspection,Medium,Brick Powder,Contamination,High,32
+Honey,BrandF,Lab Test,Low,Sugar Syrup,Substitution,Low,13
+Olive Oil,BrandH,Spectroscopy,Low,Palm Oil,Substitution,Low,13
+Butter,BrandH,Chemical Analysis,High,Starch,Adulteration,High,61
+Ghee,BrandE,Spectroscopy,High,Palm Oil,Substitution,High,69
+Olive Oil,BrandG,Spectroscopy,Medium,Palm Oil,Substitution,Medium,38
+Honey,BrandA,Lab Test,Low,Corn Syrup,Substitution,Low,15
+Olive Oil,BrandE,Spectroscopy,Low,Palm Oil,Substitution,Low,5
+Olive Oil,BrandA,Spectroscopy,Medium,Palm Oil,Substitution,Medium,32
+Olive Oil,BrandG,Spectroscopy,Low,Palm Oil,Substitution,Low,10
+Tea,BrandD,Visual Inspection,Medium,Iron Filings,Contamination,High,34
+Honey,BrandF,Lab Test,Low,Corn Syrup,Substitution,Low,11
+Apple Juice,BrandA,Chemical Analysis,Medium,Artificial Flavor,Synthetic,Medium,20
+Butter,BrandF,Chemical Analysis,High,Starch,Adulteration,High,70
+Milk,BrandF,Lab Test,Low,Water,Dilution,Low,6
+Turmeric Powder,BrandH,Chemical Analysis,Low,Lead Chromate,Artificial,High,7
+Turmeric Powder,BrandH,Chemical Analysis,High,Lead Chromate,Artificial,High,60
+Tea,BrandF,Visual Inspection,Medium,Iron Filings,Contamination,High,28
+Turmeric Powder,BrandB,Lab Test,Medium,Artificial Color,Artificial,High,39
+Olive Oil,BrandE,Spectroscopy,High,Palm Oil,Substitution,Medium,46
+Ghee,BrandF,Spectroscopy,Low,Palm Oil,Substitution,Low,11
+Apple Juice,BrandB,Chemical Analysis,High,Artificial Flavor,Synthetic,High,45
+Olive Oil,BrandH,Spectroscopy,Low,Soybean Oil,Substitution,Low,5
+Ghee,BrandF,Spectroscopy,Medium,Palm Oil,Substitution,Medium,28
+Milk,BrandA,Lab Test,Low,Water,Dilution,Low,5
+Milk,BrandF,Lab Test,Medium,Water,Dilution,Low,33
+Olive Oil,BrandH,Spectroscopy,Medium,Soybean Oil,Substitution,Medium,25
+Milk,BrandD,Chemical Analysis,Low,Detergent,Contamination,High,7
+Milk,BrandB,Chemical Analysis,Medium,Detergent,Contamination,High,23
+Coffee,BrandH,Spectroscopy,Low,Chicory,Substitution,Low,6
+Butter,BrandG,Chemical Analysis,High,Starch,Adulteration,High,55
+Coffee,BrandB,Chemical Analysis,Medium,Starch,Adulteration,Medium,32
+Olive Oil,BrandC,Spectroscopy,Low,Soybean Oil,Substitution,Low,11
+Milk,BrandB,Chemical Analysis,Medium,Detergent,Contamination,High,34
+Butter,BrandH,Chemical Analysis,Low,Salt,Adulteration,Low,6
+Turmeric Powder,BrandH,Lab Test,High,Artificial Color,Artificial,High,60
+Chili Powder,BrandB,Visual Inspection,Medium,Brick Powder,Contamination,High,38
+Honey,BrandE,Lab Test,Medium,Corn Syrup,Substitution,Medium,27
+Ghee,BrandE,Spectroscopy,Medium,Vanaspati,Substitution,High,35
+Butter,BrandH,Chemical Analysis,Medium,Salt,Adulteration,Medium,37
+Ghee,BrandF,Spectroscopy,Medium,Palm Oil,Substitution,Medium,38
+Tea,BrandC,Lab Test,Low,Artificial Color,Artificial,Low,8
+Apple Juice,BrandE,Chemical Analysis,High,Artificial Flavor,Synthetic,High,45
+Apple Juice,BrandC,Lab Test,Low,Sugar Solution,Dilution,Low,8
+Coffee,BrandC,Spectroscopy,Medium,Chicory,Substitution,Medium,31
+Butter,BrandB,Chemical Analysis,High,Salt,Adulteration,High,60
+Tea,BrandH,Visual Inspection,Low,Iron Filings,Contamination,High,12
+Honey,BrandH,Lab Test,Medium,Corn Syrup,Substitution,Medium,37
+Olive Oil,BrandG,Spectroscopy,Medium,Soybean Oil,Substitution,Medium,37
+Coffee,BrandE,Chemical Analysis,Low,Starch,Adulteration,Low,5
+Butter,BrandD,Chemical Analysis,Low,Starch,Adulteration,Low,9
+Milk,BrandC,Chemical Analysis,Medium,Detergent,Contamination,High,21
+Ghee,BrandG,Spectroscopy,Medium,Vanaspati,Substitution,Medium,28
+Turmeric Powder,BrandE,Chemical Analysis,Medium,Lead Chromate,Artificial,High,31
+Honey,BrandE,Lab Test,High,Corn Syrup,Substitution,High,66
+Ghee,BrandD,Spectroscopy,High,Vanaspati,Substitution,High,59
+Tea,BrandG,Visual Inspection,Medium,Iron Filings,Contamination,High,32
+Honey,BrandF,Lab Test,Low,Corn Syrup,Substitution,Low,6
+Turmeric Powder,BrandG,Lab Test,Low,Artificial Color,Artificial,Low,6
+Coffee,BrandD,Chemical Analysis,Medium,Starch,Adulteration,Medium,31
+Milk,BrandF,Chemical Analysis,Low,Detergent,Contamination,High,8
+Milk,BrandE,Lab Test,Low,Water,Dilution,Low,11
+Turmeric Powder,BrandC,Chemical Analysis,High,Lead Chromate,Artificial,High,55
+Chili Powder,BrandF,Lab Test,Medium,Artificial Color,Artificial,Medium,21
+Coffee,BrandH,Spectroscopy,Low,Chicory,Substitution,Low,15
+Chili Powder,BrandF,Lab Test,High,Artificial Color,Artificial,High,64
+Turmeric Powder,BrandD,Chemical Analysis,Low,Lead Chromate,Artificial,High,8
+Olive Oil,BrandD,Spectroscopy,Medium,Soybean Oil,Substitution,Medium,36
+Tea,BrandH,Visual Inspection,Low,Iron Filings,Contamination,High,15
+Honey,BrandE,Lab Test,Low,Sugar Syrup,Substitution,Low,8
+Apple Juice,BrandH,Chemical Analysis,Low,Artificial Flavor,Synthetic,Low,6
+Butter,BrandC,Chemical Analysis,Medium,Starch,Adulteration,Medium,30
+Chili Powder,BrandH,Lab Test,Low,Artificial Color,Artificial,Medium,15
+Coffee,BrandF,Chemical Analysis,High,Starch,Adulteration,High,69
+Coffee,BrandA,Chemical Analysis,Medium,Starch,Adulteration,Low,21
+Milk,BrandG,Chemical Analysis,Medium,Detergent,Contamination,High,23
+Ghee,BrandF,Spectroscopy,High,Palm Oil,Substitution,High,53
+Coffee,BrandG,Chemical Analysis,High,Starch,Adulteration,High,55
+Honey,BrandH,Lab Test,Low,Sugar Syrup,Substitution,Low,7
+Milk,BrandG,Lab Test,Low,Water,Dilution,Low,13
+Chili Powder,BrandH,Lab Test,High,Artificial Color,Artificial,High,56
+Ghee,BrandA,Spectroscopy,Medium,Palm Oil,Substitution,Low,21
+Honey,BrandG,Lab Test,Medium,Corn Syrup,Substitution,Medium,40
+Chili Powder,BrandE,Lab Test,Low,Artificial Color,Artificial,Low,6
+Butter,BrandH,Chemical Analysis,Medium,Starch,Adulteration,Medium,33
+Butter,BrandF,Chemical Analysis,Low,Salt,Adulteration,Low,12
+Tea,BrandD,Lab Test,Medium,Artificial Color,Artificial,High,31
+Apple Juice,BrandD,Lab Test,Medium,Sugar Solution,Dilution,Low,25
+Honey,BrandH,Lab Test,Medium,Sugar Syrup,Substitution,Medium,29
+Coffee,BrandA,Spectroscopy,Low,Chicory,Substitution,Low,6
+Chili Powder,BrandC,Visual Inspection,Medium,Brick Powder,Contamination,High,39
+Honey,BrandD,Lab Test,High,Corn Syrup,Substitution,High,53
+Coffee,BrandG,Chemical Analysis,Low,Starch,Adulteration,Low,9
+Ghee,BrandF,Spectroscopy,Medium,Vanaspati,Substitution,Medium,28
+Coffee,BrandH,Chemical Analysis,Medium,Starch,Adulteration,Medium,40
+Apple Juice,BrandC,Lab Test,Low,Sugar Solution,Dilution,Low,9
+Coffee,BrandH,Chemical Analysis,Low,Starch,Adulteration,Low,6
+Butter,BrandE,Chemical Analysis,Low,Salt,Adulteration,Low,11
+Milk,BrandB,Lab Test,High,Water,Dilution,Medium,49
+Milk,BrandF,Chemical Analysis,Low,Detergent,Contamination,High,9
+Milk,BrandD,Lab Test,High,Water,Dilution,High,69
+Butter,BrandE,Chemical Analysis,Low,Salt,Adulteration,Low,13
+Chili Powder,BrandA,Lab Test,Medium,Artificial Color,Artificial,High,30
+Olive Oil,BrandA,Spectroscopy,Medium,Soybean Oil,Substitution,Low,21
+Coffee,BrandC,Chemical Analysis,Medium,Starch,Adulteration,Medium,27
+Olive Oil,BrandG,Spectroscopy,Low,Soybean Oil,Substitution,Low,9
